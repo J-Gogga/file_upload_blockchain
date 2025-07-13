@@ -51,7 +51,7 @@ file_upload/
 
 ### 1. **Clone and Navigate**
 ```bash
-cd Societe_generale
+cd file_upload
 ```
 
 ### 2. **Start Ganache**
