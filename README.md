@@ -5,7 +5,7 @@ This project is a decentralized application (DApp) that enables secure file uplo
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Societe_generale/
@@ -25,7 +25,7 @@ Societe_generale/
 
 ---
 
-## 🌐 Technologies Used
+##  Technologies Used
 
 - **Ethereum** & **Solidity** – For smart contract-based file hash recording
 - **IPFS** – To store file contents in a decentralized way
@@ -37,7 +37,7 @@ Societe_generale/
 
 ---
 
-## ⚙️ Prerequisites
+## ⚙ Prerequisites
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
@@ -48,7 +48,7 @@ Societe_generale/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. **Clone and Navigate**
 ```bash
@@ -92,7 +92,7 @@ The app will run on [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🔐 Smart Contract Overview
+##  Smart Contract Overview
 
 - **FileUpload.sol**
   - Records the IPFS hash and associated metadata (e.g., filename, uploader).
@@ -100,7 +100,7 @@ The app will run on [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🧠 About IPFS Integration
+##  About IPFS Integration
 
 - Files are uploaded from the frontend via `server.js` backend to **IPFS**.
 - IPFS returns a unique **hash (CID)**.
@@ -108,13 +108,11 @@ The app will run on [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 See the `Uploads/` directory for UI snapshots of file uploads and blockchain confirmations.
 
 ---
 
-## 🧠 Author
 
-Developed as a decentralized file upload application integrating Ethereum, IPFS, and modern web technologies.
 
