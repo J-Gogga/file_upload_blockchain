@@ -8,7 +8,7 @@ This project is a decentralized application (DApp) that enables secure file uplo
 
 ```
 file_upload/
-├── ABI/                      # ABI JSON file for interacting with smart contract
+├── build/contracts/                      # ABI JSON file for interacting with smart contract
 │   └── FileUpload.json
 ├── Contracts/                # Solidity smart contracts
 │   └── FileUpload.sol
