@@ -1,5 +1,4 @@
 
-# Societe Generale - Blockchain File Upload DApp
 
 This project is a decentralized application (DApp) that enables secure file uploads using Ethereum smart contracts, IPFS (InterPlanetary File System), and a React-based frontend. It also includes a backend server built with Node.js to handle IPFS file uploads.
 
